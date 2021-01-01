@@ -4,7 +4,6 @@
     <a href="https://github.com/pyrogram/pyrogram">
         <img src="https://i.imgur.com/BOgY9ai.png" alt="Pyrogram">
     </a>
-### Please dont fork this !!Instead fork the original source of pyrogram and support there work 😟
     <br>
     <b>Telegram MTProto API Framework for Python</b>
     <br>
